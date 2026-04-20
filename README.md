@@ -50,7 +50,8 @@ We envision a future where pet service management is completely transparent, ens
 
 ## Contract Details
 
-- Contract Address: CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M
+- Contract Address: CAWJ7DOWG443REITUBE6TAEH3MUEOJVXIJ3XHU3OAODK5YDAB5CKMTKW
+
 
 ## Future Scope
 
@@ -98,5 +99,3 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 ---
 
 **Stellar PetCare DApp** - Securing Your Pet's Care on the Blockchain
-
-id smart contract: CAWJ7DOWG443REITUBE6TAEH3MUEOJVXIJ3XHU3OAODK5YDAB5CKMTKW
