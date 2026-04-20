@@ -1,10 +1,10 @@
-# Stellar PetCare DApp
+# PetLedger
 
-**Stellar PetCare DApp** - Blockchain-Based Decentralized Pet Grooming & Boarding Service Management
+**PetLedger** - Blockchain-Based Decentralized Pet Grooming & Boarding Service Management
 
 ## Project Description
 
-Stellar PetCare DApp is a decentralized smart contract solution built on the Stellar blockchain using the Soroban SDK. It provides a secure, transparent platform for managing pet care services, specifically focusing on grooming and boarding (penitipan) with pick-up and drop-off tracking. The contract ensures that service orders and statuses are stored transparently on-chain, eliminating reliance on centralized database providers.
+PetLedger is a decentralized smart contract solution built on the Stellar blockchain using the Soroban SDK. It provides a secure, transparent platform for managing pet care services, specifically focusing on grooming and boarding (penitipan) with pick-up and drop-off tracking. The contract ensures that service orders and statuses are stored transparently on-chain, eliminating reliance on centralized database providers.
 
 The system allows pet owners or shop admins to request services, track order statuses in real-time, view all active requests, and cancel services. By leveraging the efficiency and security of the Stellar network, every transaction and service update is uniquely identified and reliably stored.
 
@@ -107,4 +107,4 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 **Function Execution:**
 ![Invoke Screenshot](testnet-invoke.png)
 
-**Stellar PetCare DApp** - Securing Your Pet's Care on the Blockchain
+**PetLedger** - Securing Your Pet's Care on the Blockchain
