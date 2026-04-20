@@ -98,6 +98,9 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 
 ## Testnet Deployment Screenshots
 
+**Stellar Block Explorer Profile:**
+![Stellar Explorer Profile](stellar-explorer-contract.png)
+
 **Contract Deployment:**
 ![Deploy Screenshot](testnet-deploy.png)
 
